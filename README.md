@@ -1,1 +1,1 @@
-this repository will be used for the ncaa tournament competition hosted by Kaggle.com.  The competition can be found here: https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament
+This repository will be used for the ncaa tournament competition hosted by Kaggle.com.  The competition can be found here: https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament
